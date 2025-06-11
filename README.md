@@ -1,12 +1,46 @@
-### Hi there 👋, Serhat Celik
-#### Développeur Fullstack : Php, Nodejs, ReactJs
-En tant que Développeur Fullstack passionné, je suis fier de présenter mes projets récents qui démontrent ma polyvalence technique. En tant que junior, j'ai travaillé sur des projets complexes tels que Devis Express et Film Gecesi. Devis Express, une application utilisant React et Node.js, offre une solution novatrice pour simplifier la gestion des devis et des factures, répondant ainsi aux besoins des entreprises modernes. D'autre part, Film Gecesi, une application web qui utilise React en frontend, Node.js et Laravel en backend, offre une expérience immersive pour les passionnés de cinéma en leur permettant de découvrir et de partager des informations sur leurs films préférés. Ces projets démontrent ma capacité à travailler avec diverses technologies telles que Php, Node.js, ReactJs et Laravel, tout en relevant des défis complexes et en livrant des solutions innovantes. Je suis enthousiaste à l'idée de contribuer davantage à des projets ambitieux et de continuer à élargir mes compétences dans le domaine du développement Fullstack.
+# Serhat Celik
 
-Skills:  / REACT / JS / HTML / CSS / PHP / LARAVEL / SYMFONY / NODEJS / 
+**Développeur Web Fullstack | React • Node.js • PHP | Marseille, France**
 
+👋 Bonjour ! Je suis Serhat, développeur web fullstack passionné par la création d'applications web modernes, performantes et intuitives. Actuellement étudiant en Licence MIASHS, j'ai déjà mené à bien plusieurs projets professionnels et personnels, en freelance et en équipe.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cserhat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/serhat-celik-ba2b28246//)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cserhat)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Compétences
 
+- **Frontend** : React.js, Vue.js, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
+- **Backend** : Node.js, Express, PHP, REST API, JWT Auth
+- **Bases de données** : MongoDB, MySQL, PostgreSQL
+- **Outils & DevOps** : Git, GitHub, Figma, Vercel, VPS, Linux, Docker
+- **Autres** : Electron, Next.js, Framer Motion, Stripe API
 
+---
+
+## 🛠️ Projets phares
+
+- **[DevisExpress](https://devisexpress.fr/)** : Génération de devis/factures PDF automatisés (React, Node.js, MongoDB)
+- **[La Sauvagine](https://la-sauvagine.com/)** : Plateforme e-commerce lunetterie (React, Node.js, Stripe, Trendyol API)
+- **[SouCounts](https://www.soucount.com/)** : Application desktop de gestion financière (Electron, React)
+- **[MCD Constructions](https://www.mcdconstructions.fr/)** : Site vitrine professionnel (React, Vite, Tailwind)
+- **[Portfolio](https://celikserhat.fr/)** : Mon site personnel (React, Framer Motion)
+
+---
+
+## 🎓 Formation
+
+- **Licence MIASHS** – Université de Pau (2024-2025)
+- **Titre Pro Développeur Web & Web Mobile** – Simplon (2022-2023)
+- **BTS SIO SLAM** – Lycée Eduard Branly (2020-2022)
+- **Bac Scientifique Option Informatique** – Lycée Antonin Artaud (2019-2020)
+
+---
+
+## 📫 Contact
+
+- **Email** : cehrat137477@gmail.com
+- **LinkedIn** : [serhat-celik](https://www.linkedin.com/in/serhat-celik-ba2b28246/)
+- **Portfolio** : [celikserhat.fr](https://celikserhat.fr/)
+
+---
+
+> Passionné par l'innovation, l'open source et l'apprentissage continu. Toujours prêt à relever de nouveaux défis techniques et à collaborer sur des projets ambitieux !
