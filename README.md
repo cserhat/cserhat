@@ -8,11 +8,11 @@
 
 ## 🚀 Compétences
 
-- **Frontend** : React.js, Vue.js, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
+- **Frontend** : React.js, Vue.js, Tailwind CSS, HTML5, CSS3, JavaScript ES6+, TS
 - **Backend** : Node.js, Express, PHP, REST API, JWT Auth
 - **Bases de données** : MongoDB, MySQL, PostgreSQL
 - **Outils & DevOps** : Git, GitHub, Figma, Vercel, VPS, Linux, Docker
-- **Autres** : Electron, Next.js, Framer Motion, Stripe API
+- **Autres** : Electron, Next.js, Framer Motion, Stripe API, ThreeJs
 
 ---
 
